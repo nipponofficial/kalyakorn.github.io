@@ -1,8 +1,8 @@
 projects:
   - title: "WEGO Travel Planner"
-    subtitle: "A GPT4-powered vacation itinerary planner for seamless travel plans"
+    subtitle: "A GPT4-powered itinerary planner for seamless vacation plans"
     thumbnail: "assets/projects/2024_wego-travel-planner/thumbnail.jpg"
-    url: ""
+    url: "projects/2024_wego-travel-planner.html"
     selected: y
 
   - title: "5-Stage RISC-V Pipeline"
