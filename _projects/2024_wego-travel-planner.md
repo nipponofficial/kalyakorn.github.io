@@ -10,7 +10,7 @@ This project is the final project for the **Intelligent Service-Oriented Softwar
 
 **WEGO (Worldwide Exploration Guide Online)** is an AI-powered vacation planner that helps users effortlessly create detailed travel itineraries. It combines destination information, weather forecasts, and flight details to provide informed travel plans. With LLM-powered customer support, users can easily make changes and inquire about their trip using natural language.
 
-I am responsible for the frontend design, using React, TypeScript, and the Ant Design Framework. Please refer to our <a href="assets/projects/2024_wego-travel-planner/soa_progress_final_report.pdf">report</a> for implementation details.
+I am responsible for the frontend design, using <b>React, TypeScript, and the Ant Design Framework</b>. Please refer to our <a href="/assets/projects/2024_wego-travel-planner/wego_report.pdf">report</a> for implementation details.
 
 
 **Short Demo Video** <br/>

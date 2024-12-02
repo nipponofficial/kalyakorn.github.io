@@ -6,13 +6,31 @@ projects:
     selected: y
 
   - title: "5-Stage RISC-V Pipeline"
-    subtitle: "5-stage pipeline RISC-V CPU supporting RV32I instruction set"
-    thumbnail: "assets/projects/blank.png"
-    url: ""
+    subtitle: "A Comprehensive Computer System Design Project"
+    thumbnail: "assets/projects/2023_riscv-cpu/thumbnail.jpg"
+    url: "projects/2023_riscv-cpu.html"
+    selected: y
+
+  - title: "Machine Learning Projects"
+    subtitle: "ML projects including Bayes, K-Means, Ensemble Learning"
+    thumbnail: "assets/projects/2024_ml-labs/thumbnail.png"
+    url: "projects/2024_ml-labs.html"
     selected: y
 
   - title: "Image Generation and Completion"
     subtitle: "VAE and GAN for Image Generation, BFS, FFT, Graph-cut for Image Completion"
     thumbnail: "assets/projects/blank.png"
     url: ""
-    selected: y
+    selected: n
+
+  - title: "Chinese Pinyin to Character Converter"
+    subtitle: ""
+    thumbnail: "assets/projects/blank.png"
+    url: ""
+    selected: n
+
+  - title: "Sentiment Analysis"
+    subtitle: ""
+    thumbnail: "assets/projects/blank.png"
+    url: ""
+    selected: n
