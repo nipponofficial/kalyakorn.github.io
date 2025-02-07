@@ -1,4 +1,10 @@
 projects:
+  - title: "ASL to Text Translation"
+    subtitle: "A real-time sign language to text translation system"
+    thumbnail: "assets/projects/2024_asl-to-text/thumbnail.jpg"
+    url: "projects/2024_asl-to-text.html"
+    selected: y
+
   - title: "WEGO Travel Planner"
     subtitle: "A GPT4-powered itinerary planner for seamless vacation plans"
     thumbnail: "assets/projects/2024_wego-travel-planner/thumbnail.jpg"
@@ -15,7 +21,7 @@ projects:
     subtitle: "ML projects including Bayes, K-Means, Ensemble Learning"
     thumbnail: "assets/projects/2024_ml-labs/thumbnail.png"
     url: "projects/2024_ml-labs.html"
-    selected: y
+    selected: n
 
   - title: "Image Generation and Completion"
     subtitle: "VAE and GAN for Image Generation, BFS, FFT, Graph-cut for Image Completion"
